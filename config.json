@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "trivia-modular",
+      "title": "Jogo de Trivia Modular",
+      "description": "Crie um jogo de perguntas usando funções, listas, dicionários e controle de pontuação.",
+      "path": "assignments/trivia-modular",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
